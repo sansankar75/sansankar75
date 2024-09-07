@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @sansankar75
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hello world, I’m @sansankar75
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python for AI
+- 📫 How to reach me sankarapandian7575@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: coding is fun untill you meet a error
 
-<!---
-sansankar75/sansankar75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
