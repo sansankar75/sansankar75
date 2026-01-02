@@ -41,7 +41,6 @@ build robust, scalable systems.
 
 ### 💾 Database Management
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **SQL Databases:**
@@ -81,10 +80,11 @@ build robust, scalable systems.
 ## 🚀 Featured Projects
 
 ### 🏗️ Enterprise Spring Boot Application
+  <currenty working >
 Full-featured REST API with Spring Boot, Spring Security, and MySQL.
 - **Stack:** Java 8+, Spring Boot, Spring Data JPA, MySQL, JWT Authentication
 - **Features:** CRUD operations, Role-based access control, Exception handling
-- [View Project](#)
+
 
 ### 📱 Java Calculator Application
 Desktop calculator built with Java Swing demonstrating OOP principles.
@@ -92,29 +92,25 @@ Desktop calculator built with Java Swing demonstrating OOP principles.
 - **Highlights:** MVC architecture, multithreading for responsive UI
 - [View Project](https://github.com/sansankar75/java-calculator-app)
 
-### 🗺️ GIS Automation Suite
-Python-based geospatial data processing and automation workflows.
-- **Stack:** Python, QGIS, GeoPandas, PostgreSQL (PostGIS)
-- **Features:** Spatial analysis, automated map generation, data transformation
-- [View Project](#)
+A### I-assisted system for monitoring, analyzing, and improving student participation and learning behavior.
+       Stack: Python, Pandas, NumPy, Flask, MySQL/PostgreSQL, Matplotlib
+       Features:
+       Student activity data collection (attendance, assessments, interactions)
+       Engagement score computation using rule-based and statistical methods
+       Performance trend analysis and early-risk identification
+       Automated reports and visual dashboards for faculty decision-making
+       Outcome: Enables educators to identify disengaged students early and take data-driven academic interventions
+- [View Project](https://github.com/sansankar75/Student_engagement_tracking_system)
 
-### 📊 Data Analytics Dashboard
+### 📊 Data pileline
 Real-time data analysis and visualization system.
-- **Stack:** Python, Pandas, MongoDB, REST APIs
-- **Features:** Data aggregation, statistical analysis, automated reporting
-- [View Project](#)
+- **Stack:** Python, Pandas
+- **Features:** Data aggregation, Data controls
+- [View Project](https://github.com/sansankar75/Data-pileline)
 
 ---
 
-## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sansankar75&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sansankar75&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sansankar75&theme=radical&hide_border=true&background=0D1117)
-
----
 
 ## 🎯 Current Focus
 
@@ -129,7 +125,7 @@ Real-time data analysis and visualization system.
 ## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sansankar75)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sankara-pandian-6ab7b9259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 💼 Open to opportunities in Backend Development, Java Engineering, and Data-Driven Applications
 
